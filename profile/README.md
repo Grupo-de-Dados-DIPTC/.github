@@ -7,9 +7,9 @@ Este repositório hospeda os projetos desenvolvidos e mantidos pelo Grupo de Dad
 
 O GD é divido em sub-grupos:
 
-> Aquisição de Dados
-> Pré-processamento
-> Banco de Dados
+* Aquisição de Dados
+* Pré-processamento
+* Banco de Dados
 
 ### Organização de Projetos
 
